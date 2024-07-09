@@ -7,7 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\OA.Repo\OA.Repo.csproj" />
+    <ProjectReference Include="..\OA.Data\OA.Data.csproj" />
+	 
   </ItemGroup>
 
 </Project>
